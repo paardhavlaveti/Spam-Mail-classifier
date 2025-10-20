@@ -1,6 +1,4 @@
-# Spam-Mail-classifier
-
-# Email Spam Classifier 📧
+# Spam Mail Classifier 📧
 
 ## Overview
 
